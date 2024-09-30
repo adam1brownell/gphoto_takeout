@@ -9,7 +9,7 @@ Pretty easy to run @ friends:
   gh repo clone adam1brownell/gphoto_takeout
   cd gphoto_takeout
   chmod +x move_gphotos.sh
-  move_gphotos.sh
+  ./move_gphotos.sh
   ```
 This should save all your photos into a folder called "GPhotos" on your Desktop!
 
